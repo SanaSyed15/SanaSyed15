@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Sana Syed</h1>
 <h3 align="center">A passionate CS Engineering student from India</h3>
