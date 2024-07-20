@@ -1,4 +1,4 @@
-
+![logo](https://github.com/SanaSyed15/SanaSyed15/blob/main/Sana%20Syed.png)
 
 <h1 align="center">Hi 👋, I'm Sana Syed</h1>
 <h3 align="center">A passionate CS Engineering student from India</h3>
